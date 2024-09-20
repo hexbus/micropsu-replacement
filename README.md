@@ -10,6 +10,8 @@ This board is primarily designed for various low-voltage retro computer systems 
 
 It's a remix of [dabonetn's TI-99/4A replacement power supply project](https://github.com/dabonetn/ti99psu-replacement), which is based on jonn-reenthused's [TI99-4A-dc-power-board](https://github.com/jonn-reenthused/TI99-4A-dc-power-board). I’ve ported it from EasyEDA to KiCAD, but still haven't figured out the schematic part of KiCAD yet.  Please feel free to offer any merges with added schematics. 
 
+(Note as of 9/20/2024 this 1.0b version of the board is untested - I am ordering prototype boards to verify its operation.)
+
 Thanks to both authors for keeping these systems alive!
 
 Original author notes (adapted for my board):
