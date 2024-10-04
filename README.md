@@ -21,3 +21,5 @@ Original author notes (adapted for my board):
 * 12V:  Provided by a regulated 12V power supply.  Use a good one for input.
 * Use the recommended 560ohm resistor for a bright LED or 2.2k for a dull LED.
 * The SUP53P06-20-E3 mosfet is there for reverse voltage input, but you can leave it out by connecting pins d & s ( the two close to the edge of the board)
+
+!(https://raw.githubusercontent.com/hexbus/micropsu-replacement/refs/heads/main/images/micropsu.png)
