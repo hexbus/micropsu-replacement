@@ -19,7 +19,7 @@ Changes with 1.0c of the board is slightly more compact, has holes in it for mou
 
 ## Thanks: 
 
-This board a remix of [dabonetn's TI-99/4A replacement power supply project](https://github.com/dabonetn/ti99psu-replacement), which is based on jonn-reenthused's [TI99-4A-dc-power-board](https://github.com/jonn-reenthused/TI99-4A-dc-power-board). I’ve ported it from EasyEDA to KiCAD, but still haven't figured out the schematic part of KiCAD yet.  Please feel free to offer any merges with added schematics. Thanks to both authors for keeping these systems alive, and to members of the Atlanta Historic Computing Society for supporting this project.
+This board a remix of [dabonetn's TI-99/4A replacement power supply project](https://github.com/dabonetn/ti99psu-replacement), which is based on jonn-reenthused's [TI99-4A-dc-power-board](https://github.com/jonn-reenthused/TI99-4A-dc-power-board). I’ve ported it from EasyEDA to KiCAD, but still haven't figured out the schematic part of KiCAD yet.  Please feel free to offer any merges with added schematics. Thanks to both authors for keeping these systems alive, and to members of the Atlanta Historic Computing Society for supporting and offering feedback on this project.
 
 ### Original author notes (adapted for my board):
 
