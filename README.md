@@ -29,7 +29,9 @@ This board a remix of [dabonetn's TI-99/4A replacement power supply project](htt
 * Use the recommended 560ohm resistor for a bright LED or 2.2k for a dull LED.
 * The SUP53P06-20-E3 mosfet is there for reverse voltage input, but you can leave it out by connecting pins d & s ( the two close to the edge of the board)
 
-##BOM (Links lead to Mouser, but many items are much less expensive on Aliexpress, 14 items total):
+##BOM 
+
+(Links lead to Mouser, but many items are much less expensive on Aliexpress, 14 items total):
 
 * SW1:  [500SDP1S1M2QEA](https://www.mouser.com/ProductDetail/E-Switch/500SDP1S1M2QEA?qs=%252BZnE%2FxbLNR9K23nY3Tws9g%3D%3D) E-Switch DPDT, 4A minimum, PC-PIN or equivalent 
 * J1: 	[09652028](https://www.mouser.com/ProductDetail/Molex/09-65-2028?qs=sGAEpiMZZMvlX3nhDDO4AMj2eUq01hUX%252BAhYX12ZlRg%3D) 2-pin 3.96 Molex
