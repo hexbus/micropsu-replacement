@@ -42,6 +42,6 @@ This board a remix of [dabonetn's TI-99/4A replacement power supply project](htt
 * Capacitors: (2) [10uf, 25V](https://www.mouser.com/ProductDetail/667-ECA-1EM100), 2.0mm lead spacing, (3) [22uf, 16v](https://www.mouser.com/ProductDetail/667-ECE-A1EKA220), 2.0mm spacing
 * VR1: 	(Not marked):  -12V P78E12-1000 DC-DC converter or [LM7912](https://www.mouser.com/ProductDetail/Texas-Instruments/LM7912CT-NOPB?qs=QbsRYf82W3GCP0%2FQjKEJfQ%3D%3D) 1A -12V converter.  Please Note:  CUI is working on a successor to the P78E12-1000.  The current recommended replacement does NOT support negative voltage.
   
-![Current version](https://raw.githubusercontent.com/hexbus/micropsu-replacement/refs/heads/main/images/micropsuv1.0c)
+![Current version](https://raw.githubusercontent.com/hexbus/micropsu-replacement/refs/heads/main/images/micropsuv1.0c.png)
 
 ![Constructed Version](https://raw.githubusercontent.com/hexbus/micropsu-replacement/refs/heads/main/images/1.0c.png)
