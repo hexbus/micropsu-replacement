@@ -4,6 +4,7 @@ This 1.0c version is a drop-in replacement for a ±12V and +5V micro power suppl
 ## Specifications:
 
 **Input:** Max 4A @ 12V regulated (use a high-quality supply) via J1 (wires) or J3 (barrel input).
+
 **Output:** +5V @ 3A (with DFR8031 slightly de-rated for heat dissipation), -12V @ 1A, and the remaining capacity to the 12V input via J2's four pin output.
 
 While you **might** be able to exceed more than a total of 4A output by providing more than 4A input (i.e. 6A, so you can pull more than 12V from the 12V rail), it’s untested and unadvised — **you are on your own - proceed with extreme caution**.
@@ -41,5 +42,6 @@ This board a remix of [dabonetn's TI-99/4A replacement power supply project](htt
 * Capacitors: (2) [10uf, 25V](https://www.mouser.com/ProductDetail/667-ECA-1EM100), 2.0mm lead spacing, (3) [22uf, 16v](https://www.mouser.com/ProductDetail/667-ECE-A1EKA220), 2.0mm spacing
 * VR1: 	(Not marked):  -12V P78E12-1000 DC-DC converter or [LM7912](https://www.mouser.com/ProductDetail/Texas-Instruments/LM7912CT-NOPB?qs=QbsRYf82W3GCP0%2FQjKEJfQ%3D%3D) 1A -12V converter.  Please Note:  CUI is working on a successor to the P78E12-1000.  The current recommended replacement does NOT support negative voltage.
   
-![Current version](https://raw.githubusercontent.com/hexbus/micropsu-replacement/refs/heads/main/images/micropsu.png)
+![Current version](https://raw.githubusercontent.com/hexbus/micropsu-replacement/refs/heads/main/images/micropsu v1.0c)
+
 ![Constructed Version](https://raw.githubusercontent.com/hexbus/micropsu-replacement/refs/heads/main/images/1.0c.png)
