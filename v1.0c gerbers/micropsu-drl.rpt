@@ -1,0 +1,31 @@
+Drill report for micropsu.kicad_pcb
+Created on 2024-09-25T14:10:37-0400
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  TopLayer                  front
+    L2 :  BottomLayer               back
+
+
+Drill file 'micropsu-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.800mm  0.0315"  (10 holes)
+    T2  0.899mm  0.0354"  (2 holes)
+    T3  0.965mm  0.0380"  (2 holes)
+    T4  0.991mm  0.0390"  (4 holes)
+    T5  1.000mm  0.0394"  (3 holes)  (with 3 slots)
+    T6  1.200mm  0.0472"  (3 holes)
+    T7  1.400mm  0.0551"  (3 holes)
+    T8  1.800mm  0.0709"  (6 holes)
+    T9  1.854mm  0.0730"  (6 holes)
+
+    Total plated holes count 39
+
+
+Drill file 'micropsu-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.200mm  0.1260"  (4 holes)
+
+    Total unplated holes count 4

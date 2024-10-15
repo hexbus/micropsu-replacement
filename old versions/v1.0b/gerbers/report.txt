@@ -1,0 +1,11 @@
+Plotted to 'E:\OneDrive\Documents\micropsu\micropsu-TopLayer.gbr'.
+Plotted to 'E:\OneDrive\Documents\micropsu\micropsu-BottomLayer.gbr'.
+Plotted to 'E:\OneDrive\Documents\micropsu\micropsu-TopPasteMaskLayer.gbr'.
+Plotted to 'E:\OneDrive\Documents\micropsu\micropsu-BottomPasteMaskLayer.gbr'.
+Plotted to 'E:\OneDrive\Documents\micropsu\micropsu-TopSilkLayer.gbr'.
+Plotted to 'E:\OneDrive\Documents\micropsu\micropsu-BottomSilkLayer.gbr'.
+Plotted to 'E:\OneDrive\Documents\micropsu\micropsu-TopSolderMaskLayer.gbr'.
+Plotted to 'E:\OneDrive\Documents\micropsu\micropsu-BottomSolderMaskLayer.gbr'.
+Plotted to 'E:\OneDrive\Documents\micropsu\micropsu-BoardOutline.gbr'.
+Created Gerber job file 'E:\OneDrive\Documents\micropsu\micropsu-job.gbrjob'.
+Info: Done.
